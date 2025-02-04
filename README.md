@@ -7,7 +7,7 @@ Esta é uma aplicação frontend desenvolvida com **Next.js** e **TypeScript** p
 - **Next.js**: Framework React para desenvolvimento de aplicações web.
 - **TypeScript**: Linguagem de programação para garantir tipagem estática.
 - **Tailwind CSS**: Para estilização da aplicação.
-- **API de Câmbio **Currency Layer**: Para obter as taxas de câmbio em tempo real.
+- API de Câmbio **Currency Layer**: Para obter as taxas de câmbio em tempo real.
 
 ## Funcionalidades
 
